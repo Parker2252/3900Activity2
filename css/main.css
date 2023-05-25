@@ -17,6 +17,19 @@ img {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
 
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #101884;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: #0a0b6d;
+}
 
 /*************************************
 This css file includes several different formatting examples
